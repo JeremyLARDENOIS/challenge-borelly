@@ -1,5 +1,5 @@
-| Groupe de modules | Modules | Description | Très Utile | Occasionellement utile |Inutile |
-|:-----------------:|:-------:|:-----------:|:----------:|:----------------------:|:------:|
+| Groupe de modules | Modules | Description | Très Utile | Gadget | Inutile |
+|:-----------------:|:-------:|:-----------:|:----------:|:------:|:-------:|
 |Personalisation| Theming
 |Personalisation| AppOrder
 |Personalisation| Breeze Dark
